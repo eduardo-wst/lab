@@ -1,9 +1,15 @@
 # lab
 
-Validação de ferramentas.
+
 
 LLM Kimi K3
 
 Escopo de atualização
-DPS
 MVP
+
+> ##### Validação de ferramentas.
+>
+> - LLM Kimi K3.
+> - MVP.
+>
+> *Escopo* de **desenvolvimento**.
